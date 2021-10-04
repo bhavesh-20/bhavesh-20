@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 Hello there, I am Bhavesh Kumar an undergraduate from IIIT Sricity, an Machine learning enthusiast and python freak.
 Currently trying to explore all varieties in Machine Learning, and looking to develop an application which converts written text pdf to typed pdf.
-I use Django as web framework since i am python freak, currently developing a file sharing application. I hate Cpp,javascript, please dont mention them to me😈.
+I use Django as web framework since i am python freak, currently developing a file sharing application..
 ## 🛠️ **Languages & Tools:**
 
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
