@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-Hello there, I am Bhavesh Kumar an undergraduate from IIIT Sricity, an Machine learning enthusiast and python freak.
-Currently trying to explore all varieties in Machine Learning, and looking to develop an application which converts written text pdf to typed pdf.
-I use Django as web framework since i am python freak, currently developing a file sharing application..
+Hello there, I am Bhavesh Kumar an undergraduate from IIIT Sricity, a python freak. Have knowledge across various domains such as data science, machine learning, web development etc.
 ## 🛠️ **Languages & Tools:**
 
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
