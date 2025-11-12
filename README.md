@@ -51,7 +51,7 @@ Data Engineer with 3+ years of experience building large-scale distributed data 
 
 <p align="center">
 <a href="https://github.com/bhavesh-20">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavesh-20&show_icons=true&include_all_commits=true&theme=radical&count_private=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavesh-20&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
 </a>
 </p>
 
